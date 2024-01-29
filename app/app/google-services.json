@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653882296509",
+    "firebase_url": "https://locationtracker-669cd-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "locationtracker-669cd",
+    "storage_bucket": "locationtracker-669cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653882296509:android:e8e8666a2774bcbea78fd4",
+        "android_client_info": {
+          "package_name": "com.example.ms_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653882296509-1ublr01mufabd51tmqmfu3h83509bekp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-REyihppqEq9DXwIAQxnqSzrM8NshVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653882296509-1ublr01mufabd51tmqmfu3h83509bekp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
